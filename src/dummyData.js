@@ -48,3 +48,78 @@ export const userData = [
     "Active user": 4000,
   },
 ];
+
+export const userRows = [
+  {
+    id: 1,
+    username: "John Snow",
+    avatar:
+      "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    email: "john@gmail.com",
+    status: "active",
+    transaction: "$150",
+  },
+  {
+    id: 2,
+    username: "Smith James",
+    avatar:
+      "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    email: "james@gmail.com",
+    status: "active",
+    transaction: "$70",
+  },
+  {
+    id: 3,
+    username: "Paul Thompson",
+    avatar:
+      "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    email: "paul@gmail.com",
+    status: "active",
+    transaction: "$330",
+  },
+  {
+    id: 4,
+    username: "Clera Bose",
+    avatar:
+      "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    email: "clera@gmail.com",
+    status: "active",
+    transaction: "$50",
+  },
+  {
+    id: 5,
+    username: "Helen Sharp",
+    avatar:
+      "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    email: "helen@gmail.com",
+    status: "active",
+    transaction: "$290",
+  },
+  {
+    id: 6,
+    username: "Jules Smith",
+    avatar:
+      "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    email: "jules@gmail.com",
+    status: "active",
+    transaction: "$290",
+  },
+  {
+    id: 7,
+    username: "Utsav Sen",
+    avatar:
+      "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    email: "utasav@gmail.com",
+    status: "active",
+    transaction: "$90",
+  },
+  {
+    id: 8,
+    username: "Yashika Jewel",
+    avatar:
+      "https://images.pexels.com/photos/4172933/pexels-photo-4172933.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    email: "yashika@gmail.com",
+    status: "active",
+    transaction: "$110",
+  },
+];
